@@ -1,6 +1,6 @@
 package test123;
 
-public class test4 {
+public class Bubble {
 
     public static void main(String args[])
     {
