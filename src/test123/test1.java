@@ -8,12 +8,38 @@ public class test1 {
 
         System.out.println("Array size:" + arr.length);
 
-        int[][] arr2;
-        
+        int[][] arr2 = {{100,200,300,400},{400,500,600},{700,800}};
+
         for(int i=0;i<arr.length;i++)
         {
             System.out.println(arr[i]);
         }
+
+        System.out.println("Length of arr2:" +arr2[0].length);
+
+        for(int i=0;i<arr2.length;i++)
+        {
+            for(int j=0;j<arr2[i].length;j++)
+            {
+            System.out.println("MULTI"+arr2[i][j]);
+
+        }
+        }
+
+
+        for(int i:arr)
+        {
+
+            System.out.println("enhanced"+i);
+        }
+
+
+        String s = "This is a test";
+        System.out.println(s.length());
+
+        String txttt=s.concat("hjjj");
+
+        System.out.println(s + txttt);
 
 
     }
