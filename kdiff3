@@ -1,0 +1,2 @@
+git config --global merge.tool kdiff3
+git config --global mergetool.kdiff3.path "C:/Program Files/KDiff3/bin/kdiff3.exe"
