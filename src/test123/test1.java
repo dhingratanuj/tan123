@@ -6,6 +6,7 @@ public class test1 {
 
 //        int[] arr = {100,200,300,400};
 newghj
+newadfg
 //        System.out.println("Array size:" + arr.length);
 //
 //        int[][] arr2 = {{100,200,300,400},{400,500,600},{700,800}};
