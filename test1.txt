@@ -1,4 +1,9 @@
 nwww
 
+<<<<<<< HEAD
 
 bcds
+
+ajaja
+as
+>>>>>>> 435d1918c57c219fe85ff963e26c13ab17fcb124
