@@ -5,7 +5,7 @@ public class test1 {
     public static void main(String[] args) {
 
 //        int[] arr = {100,200,300,400};
-new
+newadfg
 //        System.out.println("Array size:" + arr.length);
 //
 //        int[][] arr2 = {{100,200,300,400},{400,500,600},{700,800}};
